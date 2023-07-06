@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+[Intro and Loading Progress](https://intro-and-loading-progress-olive.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
